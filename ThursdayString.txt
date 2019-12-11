@@ -96,10 +96,9 @@ public class String1 {
 //	
 //	 static void stringPool() {
 //	 System.out.println("Inside String Pool:");
+//	 String s4 = new String("hello");// String via new outside the string pool
 //	 String s1 = "hello";// string literal created in the string pool
 //	 String s2 = "hello";// String literal created again in the string pool
-//	 String s4 = new String("hello");// String via new outside the string pool
-
 //	 String s5 = "lo";//make it final and try
 //	
 //	 System.out.println("s1==s2 " + (s1 == s2));
