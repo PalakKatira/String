@@ -15,13 +15,9 @@
 	3.1 Heap and SCP
 	
 4 Important methods of String Class
-
-5 Need for StringBuffer
-	5.1 Important methods of StringBuffer
-	5.2 StringBuffer class constructors
 	
-6 Differences between StringBuffer and StringBuilder
+5 Differences between StringBuffer and StringBuilder
 
-7 String vs StringBuffer vs StringBuilder
+6 String vs StringBuffer vs StringBuilder
 
-8 Method Chaining Concept
+7 Method Chaining Concept
